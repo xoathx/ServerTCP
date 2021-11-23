@@ -1,2 +1,2 @@
 # ServerTCP
-Project with the implementation of the TSP server for term paper
+Project with the implementation of the TCP server for term paper
